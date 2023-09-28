@@ -19,25 +19,16 @@
 
 <p></p>
 <p align="center">
-    <img alt="Logon" title="Logon" src="src/assets/int1.png" width="400px" />
-    <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="400px" />
+    <img alt="Logon" title="Logon" src="src/assets/home.jpg" width="400px" />
+    <img alt="Cadastro" title="Cadastro" src="src/assets/detalhes.jpg" width="400px" />
  </p>
  
  <p align="center">
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int4.png" width="260px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int5.png" width="260px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int6.png" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/stripe-checkout.jpg" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/success.jpg" width="260px" />
  </p>
 
-<p align="center">
-  <img alt="Logon" title="Logon" src="src/assets/int7.png" width="400px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int8.png" width="400px" />
-  <img alt="Logon" title="Logon" src="src/assets/int8a.png" width="400px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int9.png" width="380px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int8b.png" width="400px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int8c.png" width="400px" />  
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int10.png" width="400px" />
- </p>
+
 
 
 
