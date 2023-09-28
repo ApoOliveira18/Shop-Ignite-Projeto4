@@ -35,15 +35,12 @@
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
-- [ReactNative](https://reactnative.dev/) 
+- [React](https://reactnative.dev/) 
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
-- [TypeORM](https://typeorm.io/#/)
-- [Mutter](https://www.npmjs.com/package/multer)
-- [Context API](https://reactjs.org/docs/context.html)
-- [Async Storage](https://github.com/react-native-community/async-storage)
-- [Mongodb](https://docs.mongodb.com/)
-- [Redis](https://redis.io/documentation)
-- [Postgres](https://www.postgresql.org/docs/)
+- [NextJS](https://https://nextjs.org/)
+- [Stitches](Stitches)
+- [keen-slider]([https://reactjs.org/docs/context.html](https://keen-slider.io/))
+- [Stripe]([https://github.com/react-native-community/async-storage](https://dashboard.stripe.com/login))
 
 
 ## :information_source: How To Use
@@ -55,16 +52,16 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/Projeto-GoBarber.git
+$ git clone https://github.com/ApoOliveira18/Projeto-GoBarber.git](https://github.com/ApoOliveira18/Shop-Ignite-Projeto4.git
 # Go into the repository
 $ cd Projeto-GoBarber/
 
 # Install dependencies for directories
-#yarn
-$yarn
+#npm install
+$npm i
 
 # Run aplication
-$ yarn start
+$ npm run dev
 ```
 
 ## 🤔 How to contribute
