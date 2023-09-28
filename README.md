@@ -1,6 +1,6 @@
  <h1 align="center">
-    <img alt="GoStack" title="#BeTheHero" src="
-https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/logo.svg" width="250px" />
+    <img alt="Ignite" title="#BeTheHero" src="
+ https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/ignite-logo.png" width="50%" />
 </h1>
 
 <h4 align="center"> 
