@@ -25,8 +25,8 @@ https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/logo.
  </p>
  
  <p align="center">
-  <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/stripe-checkout.JPG" width="260px" />
-  <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/success.JPG" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/stripe-checkout.JPG" width="400px" />
+  <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/success.JPG" width="400px" />
  </p>
 
 
