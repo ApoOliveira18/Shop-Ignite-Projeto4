@@ -1,5 +1,6 @@
  <h1 align="center">
-    <img alt="GoStack" title="#BeTheHero" src="src/assets/lg.png" width="250px" />
+    <img alt="GoStack" title="#BeTheHero" src="
+https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -19,13 +20,13 @@
 
 <p></p>
 <p align="center">
-    <img alt="Logon" title="Logon" src="src/assets/home.jpg" width="400px" />
-    <img alt="Cadastro" title="Cadastro" src="src/assets/detalhes.jpg" width="400px" />
+    <img alt="Logon" title="Logon" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/home.JPG" width="400px" />
+    <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/detalhes.JPG" width="400px" />
  </p>
  
  <p align="center">
-  <img alt="Cadastro" title="Cadastro" src="src/assets/stripe-checkout.jpg" width="260px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/success.jpg" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/stripe-checkout.JPG" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="https://github.com/ApoOliveira18/Shop-Ignite-Projeto4/blob/main/src/assets/success.JPG" width="260px" />
  </p>
 
 
