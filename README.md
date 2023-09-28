@@ -38,9 +38,9 @@ This project was developed with the following technologies:
 - [React](https://reactnative.dev/) 
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
 - [NextJS](https://https://nextjs.org/)
-- [Stitches](https://Stitches.io)
-- [keen-slider](https://keen-slider.io/))
-- [Stripe](https://dashboard.stripe.com/login))
+- [Stitches](https://stitches.dev/)
+- [keen-slider](https://keen-slider.io/)
+- [Stripe](https://dashboard.stripe.com/login)
 
 
 ## :information_source: How To Use
